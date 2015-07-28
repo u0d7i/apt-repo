@@ -1,0 +1,18 @@
+Package: cryptsetup-nonopt
+Version: 1.0.7maemo0
+Installed-Size: 294
+Maintainer: u0d7i <u0d7i@users.noreply.github.com>
+Architecture: armel
+Provides: cryptsetup, libcryptsetup0, libdevicemapper0
+Depends: libuuid1 (>= 1.41.3-1maemo5+0m5), libpopt0 (>= 1.10-3osso3+0m5), libc6 (>= 2.5.0-1), libssl0.9.8 (>= 0.9.8g-15maemo4+0m5)
+Replaces: cryptsetup, libcryptsetup0, libdevicemapper0
+Conflicts: cryptsetup, libcryptsetup0, libdevicemapper0
+Priority: important
+Section: admin
+Filename: pool/main/c/cryptsetup-nonopt/cryptsetup-nonopt_1.0.7maemo0_armel.deb
+Size: 95750
+SHA256: 38f80c61e749577c6f3206d6eac6ca91eae5356e6957e605547bd1053784120f
+SHA1: 448a8551c3c870327e356915a3dea45de22d2934
+MD5sum: d57437a6e70fa26fd636f9c75ed5311c
+Description: Cryptsetup non-optified package for maemo.
+

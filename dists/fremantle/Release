@@ -1,0 +1,19 @@
+Origin: u0d7i
+Label: u0d7i
+Codename: fremantle
+Date: Tue, 28 Jul 2015 05:08:24 UTC
+Architectures: armel
+Components: main
+Description: u0d7i apt repo
+MD5Sum:
+ 3c725fca96628c4b41f617effeb98cf6 781 main/binary-armel/Packages
+ f045b90c17feb2a3e2a7592eeca38871 462 main/binary-armel/Packages.gz
+ c3b0e36344ffc0e7d59a3e3e849f21f6 91 main/binary-armel/Release
+SHA1:
+ e8991d513314b19451457200a5a72c2a015dc639 781 main/binary-armel/Packages
+ 0ada34695d1ac5957ca755751a07d7447ff3098a 462 main/binary-armel/Packages.gz
+ 6ff4405d84d074f7f4293bb4019cc63f34eac3d0 91 main/binary-armel/Release
+SHA256:
+ 5ae86b9b6eff4ea51b9cca5d4fba5a637ffb68eba2ab516735d20698100e86e4 781 main/binary-armel/Packages
+ 6590fac3da318132fda7b1fa45a839685c9f39a516394caf25844031e7fd0610 462 main/binary-armel/Packages.gz
+ 2ceadc96dc8c72b030e236126d3c38a34d274138ac5e6b88764f7e3219bf6a16 91 main/binary-armel/Release

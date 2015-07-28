@@ -1,0 +1,7 @@
+Origin: u0d7i
+Label: u0d7i
+Codename: fremantle
+Architectures: armel
+Components: main
+Description: u0d7i apt repo
+SignWith: B340D8C5
